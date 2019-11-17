@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "~/*": ["scripts/*"]
+    },
+    "module": "commonjs",
+    "lib": [ "dom", "es5", "es2015.promise" ],
+    "target": "es5",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "outDir": "build/scripts"
+  },
+  "exclude": [
+    "node_modules",
+  ]
+}

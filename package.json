@@ -1,0 +1,30 @@
+{
+  "name": "htmlcomponent",
+  "version": "1.0.0",
+  "description": "html component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meshikui/HTMLComponent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meshikui/HTMLComponent/issues"
+  },
+  "homepage": "https://github.com/meshikui/HTMLComponent#readme",
+  "devDependencies": {
+    "tslint": "^5.20.1",
+    "typedoc": "^0.15.2",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "json2typescript": "^1.2.3",
+    "linq-collections": "^1.0.254",
+    "rxjs": "^6.5.3",
+    "tsyringe": "^4.0.1"
+  }
+}

@@ -9,6 +9,7 @@
     "target": "es5",
     "sourceMap": true,
     "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
     "skipLibCheck": true,
     "strictNullChecks": true,
     "noUnusedLocals": true,
